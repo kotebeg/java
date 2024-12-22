@@ -1,2 +1,3 @@
 java practice
 - abstraction
+- interface
